@@ -8,3 +8,5 @@ while [ $vble -le $n1 ];do
     echo "$acumulador"
 done
 echo "$acumulador"
+
+echo "me llamo cosmin"
